@@ -5,3 +5,4 @@ nilearn
 numpy
 pandas
 pybids
+dipy
